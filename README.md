@@ -1,1 +1,3 @@
-# lab-gemm
+# Laboratory on Matrix Multiplication
+
+
